@@ -69,10 +69,10 @@ We will discuss below topics to cover microservice based project:-
        * Elasticssearch is internally used NOSql as database.
        * Here NoSql database is used for to store all logs which we generated from indidual service.
 
-    - Logstash
+    - Logstash.
       * Logstash internally used Lucyne as search engine.
       * using logstash we can search perticular log which is stored in NoSql database which elasticsearch is used.
 
-    - Kibana
-     * Kibana is used to view the logs on kibana dashboard.
-     * so basically kibana is used for viewing the logs.
+    - Kibana.
+      * Kibana is used to view the logs on kibana dashboard.
+      * so basically kibana is used for viewing the logs.
