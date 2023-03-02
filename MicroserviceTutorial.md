@@ -11,6 +11,7 @@ We will discuss below topics to cover microservice based project:-
   * what is microservice?
   * why we need to implement microservice based project instead of springboot based project?
 + About Eureka server. 
++ API gateway or load balancer
 + About fault tollerance or circuit breaker.
 + About hystrix dashboard
 + About how to implement logger concept in microservice based project
@@ -42,5 +43,36 @@ We will discuss below topics to cover microservice based project:-
      * To increase performance.
      * To increase scalibility.
      
+ + About Eureka server
+  * Using eureka server we can centralize the all microservices.
+  * All this microservices we can view on eureka dashboard.
+  * on eureka dashboard we can see all up and running microservices.
+  * basically on eureka dashboard we can check the status of the indidual microservice whether the indidual service status is up or down.
 
    
+ + Api gateway or load balancer
+   * Using API gateway or loadbalncer we can increase the performance.
+   * If we use API gateway or loadbalancer concept then we need not to remember all API port.
+   * with help of single port we can call all configured API end point.
+
+ + About Fault tollerance or circuit breaker concept
+   * If any one of the service has been stpped because of some error message.
+   * To show proper error message to client(i.e user) we can use fault tollerance or circuit breaker concept.
+
+  + About hystrix dashboard
+    * If we want to view graphical representation of all service then we can use hystrix dashboard.
+    * Using hystrix dashboard we can check all services status.
+
+ +  About ELK.
+    * ELK stands for elasticsearch,logstash and kibana.
+    - Elasticsearch
+       * Elasticssearch is internally used NOSql as database.
+       * Here NoSql database is used for to store all logs which we generated from indidual service.
+
+    - Logstash
+      * Logstash internally used Lucyne as search engine.
+      * using logstash we can search perticular log which is stored in NoSql database which elasticsearch is used.
+
+    - Kibana
+     * Kibana is used to view the logs on kibana dashboard.
+     * so basically kibana is used for viewing the logs.
