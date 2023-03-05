@@ -84,4 +84,4 @@ We will discuss below topics to cover microservice based project:-
       * To create springboot application you can use https://start.spring.io url and based on your requirement you can create your springboot project(i.e indidual service.)
       * After hitting https://start.spring.io you will get below screenshot:-
 
-        ![SpringInitializerImage](C:/Dadaso/microservices_project/microservicebasedproject/SpringInitializerImage.jpeg).
+        ![SpringInitializerImage](https://github.com/DadasoBanagar/microservicebasedproject/blob/development/SpringInitializerImage.jpeg).
