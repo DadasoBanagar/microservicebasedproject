@@ -82,5 +82,6 @@ We will discuss below topics to cover microservice based project:-
 
     - First create springboot application for each service(i.e Employee service and address service).
       * To create springboot application you can use https://start.spring.io url and based on your requirement you can create your springboot project(i.e indidual service.)
-      * After hitting https://start.spring.io you will get below screenshot
-       ![SpringInitializer](C:\Dadaso\microservices_project\microservicebasedproject\SpringInitializer.jpeg)
+      * After hitting https://start.spring.io you will get below screenshot:-
+
+        ![SpringInitializerImage](C:\Dadaso\microservices_project\microservicebasedproject\SpringInitializerImage.jpeg).
