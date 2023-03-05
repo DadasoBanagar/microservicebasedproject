@@ -91,6 +91,6 @@ We will discuss below topics to cover microservice based project:-
          ![Address_Service](https://github.com/DadasoBanagar/microservicebasedproject/blob/development/Address_Service.jpeg).
       *  Create API Gateway or load balcing to implement performance of application and which will shown in below screenshot
          ![API_Gateway](https://github.com/DadasoBanagar/microservicebasedproject/blob/development/API_Gateway.jpeg).
-      * Also you need add below configuration in application.yml file
+      * Also you need to add below configuration in application.yml file
         ![API_Gateway_yml_file](https://github.com/DadasoBanagar/microservicebasedproject/blob/development/API_Gateway_yml_file.jpeg).
       * Above configuration is also used to implement fault tollerance concept or circuit breaker concept
