@@ -31,13 +31,13 @@ We will discuss below topics to cover microservice based project:-
  + Introduction of microservice
    * small small services is treated as microservice.
     - what is microservice ?
-     * Microservice is small small service of springboot application.All this small small service treat as microservice
-     * Microservice is small small services(i.e small small springboot application) based application.
-     * In microservice we deploy indusual service.
-     * In microservice based project we will not deploye all services as single unit.
-     * And because of deploying indudual service the application performance will increase.
-     * It means if one of the microservice will get fail then it will not impact on other services.
-     * In microservice based application we do required changes and deploy only failed service but not other service.
+      * Microservice is small small service of springboot application.All this small small service treat as microservice
+      * Microservice is small small services(i.e small small springboot application) based application.
+      * In microservice we deploy indusual service.
+      * In microservice based project we will not deploye all services as single unit.
+      * And because of deploying indudual service the application performance will increase.
+      * It means if one of the microservice will get fail then it will not impact on other services.
+      * In microservice based application we do required changes and deploy only failed service but not other service.
 
    - why we need to implement microservice based project instead of springboot based project?
      * To increase performance.
